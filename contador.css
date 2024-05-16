@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+    font-size: 30px;
+}
+.container{
+    text-align: center;
+    padding: 15%;
+}
+button{
+    width: 20%;
+    height: 90px;
+    background-color: black;
+    color: #fff;
+    
+}
+.saira-uniquifier {
+  font-family: "Saira", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 30px;
+  font-style: nor;
+  font-variation-settings:
+    "wdth" 100;
+}
